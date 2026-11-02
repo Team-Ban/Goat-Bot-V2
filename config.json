@@ -36,9 +36,9 @@
     "notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
   },
   "nickNameBot": "NexXy's bot",
-  "prefix": "/",
+  "prefix": ".",
   "autoSetNickname": true,
-  "authorFB": "https://www.facebook.com/profile.php?id=100071880593545",
+  "authorFB": "facebook id detective",
   "authorName": "Tamim",
   "authorEmail": "secret",
   "database": {
